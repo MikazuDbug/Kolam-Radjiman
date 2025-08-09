@@ -1,7 +1,7 @@
 {
-  "name": "prometheus-singularity-bot",
-  "version": "8.0.0",
-  "description": "Bot Telegram All-in-One dengan Web Dashboard Real-time untuk Vercel",
+  "name": "ares-bot-v8.2",
+  "version": "8.2.0",
+  "description": "Bot Telegram All-in-One 'Ares Edition' dengan Web Dashboard Real-time untuk Vercel.",
   "main": "index.js",
   "scripts": { "start": "node index.js" },
   "author": "Serda Gilang irchas A & Google Gemini",
