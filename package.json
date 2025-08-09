@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-singularity-bot",
+  "version": "8.0.0",
+  "description": "Bot Telegram All-in-One dengan Web Dashboard Real-time untuk Vercel",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "author": "Serda Gilang irchas A & Google Gemini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2", "better-sqlite3": "^9.6.0", "cors": "^2.8.5", "dotenv": "^16.4.5", "express": "^4.19.2", "node-cron": "^3.0.3", "pdfkit": "^0.15.0", "telegraf": "^4.16.3", "ws": "^8.17.0"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
